@@ -6,8 +6,7 @@ public class Before {
             return b;
         }
     }
-
     public static void main(String[] args) {
-        System.out.println(getMax(3, 4));
+        System.out.println(getMax(4, 6));
     }
 }
